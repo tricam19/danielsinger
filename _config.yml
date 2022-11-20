@@ -4,7 +4,7 @@ url:
 baseurl:          "danielsinger"
 
 # Build settings
-remote_theme: jekyll-theme-hyde-plus
+theme: jekyll-theme-hyde-plus
 markdown:         redcarpet
 highlighter:      pygments
 permalink:        pretty
