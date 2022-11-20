@@ -1,8 +1,7 @@
-title:            Hyde Plus
-tagline:          'An improved Hyde Jekyll theme.'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde-plus.emmanuelcorrales.com
-baseurl:          /
+title:            Daniel Singer
+description:      'Psychology. Alpine Climbing.'
+url:              
+baseurl:          ""
 
 # Build settings
 markdown:         redcarpet
@@ -11,14 +10,14 @@ permalink:        pretty
 paginate:         5
 
 author:
-  name:           'Emmanuel Corrales'
-  email:          contact@emmanuelcorrales.com
-  url:            https://emmanuelcorrales.com
+  name:           'Daniel Singer'
+  email:          dsinger7@gmu.edu
+  url:            
 
 social:
   twitter:        em_corrales
   linkedin:       emmanuelcorrales
-  github:         EmmanuelCorrales
-  disqus:         emmanuel-corrales
+  github:         tricam19
+
 
 google_analytics:

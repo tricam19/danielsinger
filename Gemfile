@@ -11,3 +11,5 @@ group :jekyll_plugins do
   gem 'pygments.rb'
   gem 'redcarpet'
 end
+
+gem "webrick", "~> 1.7"
