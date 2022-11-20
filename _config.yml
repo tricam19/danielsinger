@@ -1,9 +1,10 @@
 title:            Daniel Singer
 description:      'Psychology. Alpine Climbing.'
 url:              
-baseurl:          ""
+baseurl:          "danielsinger"
 
 # Build settings
+remote-theme: jekyll-theme-hyde
 markdown:         redcarpet
 highlighter:      pygments
 permalink:        pretty
@@ -15,8 +16,7 @@ author:
   url:            
 
 social:
-  twitter:        em_corrales
-  linkedin:       emmanuelcorrales
+  linkedin:       
   github:         tricam19
 
 
